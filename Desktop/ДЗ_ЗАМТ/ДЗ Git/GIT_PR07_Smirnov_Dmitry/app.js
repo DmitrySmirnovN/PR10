@@ -1,1 +1,1 @@
-console.log("Приветсвую! *текущая дата*")
+console.log("PR07 Rabota s vetkami")
